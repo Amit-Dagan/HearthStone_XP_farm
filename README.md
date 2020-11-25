@@ -3,11 +3,15 @@ By no means I want to encourage cheating.
 Its just a little tool that i created for practice
 
 
+This is a rather simple mouse clicker with a bit randomness
+
+Its verry simple to edit and customize
+
 To use it enter the home page of hearthstone
 
-Dubble click on Run.bat
+Then dubble click on Run.bat
 
-Enter your minimum and maximun time for a round
+Enter minimum and maximun time for a round
  
 Then quickly get back to Hearthstone
 
